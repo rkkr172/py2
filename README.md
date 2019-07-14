@@ -8,7 +8,7 @@ You can purchase the course at a 50% discount by clicking [here](https://www.ude
 Purchasing the course grants access to all the screencast videos and the moderated discussion forums!
 
 
-In this repo you will find all the accompanying Jupyter (p.k.a. iPython) Notebooks for the course. For quicker view rendering and simpler downloading procedures, you can check out this repo using [NbViewer](http://nbviewer.ipython.org/github/jmportilla/Complete-Python-Bootcamp/tree/master/).
+In this repo you will find all the accompanying Jupyter (p.k.a. iPython) Notebooks for the course. For quicker view rendering and simpler downloading procedures, you can check out this repo using [NbViewer](https://nbviewer.jupyter.org/github/rkkr172/py2/tree/master/).
 
 
 Then navigate to your desired lecture and enjoy! You can download the .ipynb files onto your own computer for convenience.
